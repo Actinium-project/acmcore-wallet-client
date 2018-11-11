@@ -1,0 +1,26 @@
+{
+  "name": "acmcore-wallet-client",
+  "main": "index.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/Actinium-project/acmcore-wallet-client",
+  "authors": ["BitPay Inc"],
+  "description": "Client for acmcore-wallet-service",
+  "keywords": [
+    "actinium",
+    "copay",
+    "multisig",
+    "wallet",
+    "client",
+    "acmcore"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile"
+  ]
+}
